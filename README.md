@@ -1,1 +1,1 @@
-# Delli: This a sync scraping approach
+# Delli: This is a sync scraping approach
