@@ -1,1 +1,1 @@
-# Delli: This is a sync scraping approach
+# Delli: This is scrapy spider approach ising playwright 
