@@ -1,1 +1,1 @@
-# Delli: This is scrapy spider approach ising playwright 
+# Delli: This is scrapy spider approach using playwright 
